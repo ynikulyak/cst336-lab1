@@ -84,6 +84,6 @@ ul li {
 	color: yellow;
 }
 
-#content iframe {
+div > iframe {
 	margin: 0 auto;
 }
