@@ -83,3 +83,7 @@ ul li {
 .hobby {
 	color: yellow;
 }
+
+#content iframe {
+	margin: 0 auto;
+}
