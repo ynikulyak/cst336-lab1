@@ -36,7 +36,7 @@ in html
         <br><br>
 
         <div id="content">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIkXXhdornBlUk8KO-Ln7rExlDcAQ71CPBDvVNMnUzDIRN0w/viewform?embedded=true" width="1400" height="1000" frameborder="100" marginheight="100" marginwidth="100">Loading...</iframe>        </div>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIkXXhdornBlUk8KO-Ln7rExlDcAQ71CPBDvVNMnUzDIRN0w/viewform?embedded=true" width="1400" height="900" frameborder="500" marginheight="50" marginwidth="50">Loading...</iframe>        </div>
         
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
