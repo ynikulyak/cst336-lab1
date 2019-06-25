@@ -84,6 +84,7 @@ ul li {
 	color: yellow;
 }
 
-div > iframe {
+#contact-form {
+	display: block;
 	margin: 0 auto;
 }
